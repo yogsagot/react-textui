@@ -1,0 +1,16 @@
+{
+  "name": "react-textui",
+  "version": "0.0.2",
+  "description": "text ui lib made with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "textui",
+    "tui"
+  ],
+  "author": "Juris Krumgolds",
+  "license": "ISC"
+}
